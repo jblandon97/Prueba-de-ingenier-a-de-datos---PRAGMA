@@ -59,7 +59,7 @@ coverage.xml
 .dmypy.json
 
 # dotenv
-.env
+# .env
 
 # Docker
 *.pid
