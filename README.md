@@ -31,7 +31,7 @@ Este proyecto resuelve una prueba técnica de ingeniería de datos, cuyo objetiv
 
 1. **Clona el repositorio y navega al directorio:**
    ```powershell
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/jblandon97/Prueba-de-ingenier-a-de-datos---PRAGMA.git
    cd "Prueba de ingeniería de datos - PRAGMA"
    ```
 
